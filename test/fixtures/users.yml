@@ -3,3 +3,9 @@ temple:
  last_name: "Jones"
  email: "captaintj@tj.com"
  profile_name: "captain"
+
+gunsmith:
+ first_name: "Gun"
+ last_name: "Smith"
+ email: "gun@smith.com"
+ profile_name: "gun_smith"

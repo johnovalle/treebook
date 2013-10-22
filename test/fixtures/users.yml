@@ -9,3 +9,9 @@ gunsmith:
  last_name: "Smith"
  email: "gun@smith.com"
  profile_name: "gun_smith"
+
+crack:
+ first_name: "Crack"
+ last_name: "Lord"
+ email: "crack@lord.com"
+ profile_name: "cracksmoke"
